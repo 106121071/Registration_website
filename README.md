@@ -11,7 +11,7 @@
   * Secure passwords using cryptography
  
 # Screenshots
-  <img src = 'file:///C:/Users/pgls2/OneDrive/Pictures/Screenshots/1.png' />
-  <img src = 'file:///C:/Users/pgls2/OneDrive/Pictures/Screenshots/2.png' />
-  <img src = 'file:///C:/Users/pgls2/OneDrive/Pictures/Screenshots/3.png' />
+  <img src = 'https://github.com/106121071/Registration_website/blob/main/pic/1.png?raw=true' />
+  <img src = 'https://github.com/106121071/Registration_website/blob/main/pic/2.png?raw=true' />
+  <img src = 'https://github.com/106121071/Registration_website/blob/main/pic/3.png?raw=true' />
   
